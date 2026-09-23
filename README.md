@@ -240,12 +240,6 @@ ip-sakthi-sahayak/
 │   ├── main.py
 │   └── requirements.txt
 │
-├── docs/
-│   └── screenshots/
-│
-├── .github/
-│   └── workflows/
-│
 ├── .gitignore
 └── README.md
 ```
